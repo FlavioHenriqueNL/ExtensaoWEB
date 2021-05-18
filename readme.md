@@ -1,0 +1,3 @@
+Olá pessoas, esse é meu README para o projeto de extensão. Espero colocar aqui descrições do que aprendi e/ou desenvolvi. 
+
+A principio é apenas a criação do repositório...
